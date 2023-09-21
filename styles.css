@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.container{
+	width: 1100px;
+	background: grey;
+}
+.imageContainer img {
+	width:600px;
+	
+}
+table img{
+	width:200px;
+	height:200px;
+	
+}
+table p{
+	width: 600px;
+	text-align: center;
+}
+table img+p {
+	width:200px;
+	text-align: center;
+	
+}
